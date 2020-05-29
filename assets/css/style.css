@@ -1,0 +1,16 @@
+#class {
+    height: 125px;
+    width: 125px;
+    border-radius: 200px;
+}
+
+#balon {
+    width: 100%;
+}
+
+#surat {
+    height: 50px;
+    width: 75px;
+    position: absolute;
+    right: 5px;
+}
